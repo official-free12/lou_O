@@ -1,0 +1,6 @@
+# 【漏洞修复版】聚合支付系统/多商家/单独/轮询/代理佣金/支付对接
+
+聚合支付系统/多商家/单独/轮询/代理佣金<br>如需演示请联系： QQ：.Mrk_98,.Mrk_73,.Mrk_57,.Mrk_27,.Mrk_58,.Mrk_41,.Mrk_79,.Mrk_89,.Mrk_39{display:none};117334488810123042741527146<br>系统漏洞修复已修复，购买送伪静态加固规则，系统更安全！<br>更新日志：<br>2024/09/05<br>1、增加一键安装脚本（另外可选择初始化数据和测试数据）<br>2、进行安全加固<br>后台菜单：<br>├─管理首页<br>└─仪表盘<br>├─系统设置<br>└─基本设置<br>└─邮件设置<br>└─短信设置<br>└─计划任务<br>└─手机设置<br>└─数据清理<br>└─修改密码<br>├─管理员管理<br>└─管理员信息<br>└─角色配置<br>└─权限配置<br>├─用户管理<br>└─已认证用户<br>└─待认证用户<br>└─未认证用户<br>└─冻结用户<br>└─邀请码<br>└─登录记录 <br>└─投诉保证金设置<br>├─代理管理<br>└─代理列表<br>└─佣金记录<br>├─订单管理<br>└─流水记录<br>└─成功订单<br>└─未支付订单<br>└─通知异常订单<br>└─全部订单<br>└─冻结订单<br>├─提款管理<br>└─提款设置<br>└─手动结算<br>└─代付结算<br>├─通道管理<br>└─入金渠道设置<br>└─支付产品设置<br>└─代付渠道设置<br>├─文章管理<br>└─栏目列表<br>└─文章列表<br>├─财务分析<br>└─交易统计<br>└─商户交易统计<br>└─代理商交易统计<br>└─接口交易统计<br>└─充值排行榜<br>└─投诉保证金统计<br>└─平台报表<br>└─商户报表<br>└─代理报表<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/PPUK5" style="color: red;">https://mega-file.org/PPUK5</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
